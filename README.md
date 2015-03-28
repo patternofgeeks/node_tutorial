@@ -6,6 +6,7 @@
 
 
 ### 사용 package
+- node 1.2 over
 - nodeunit: https://github.com/caolan/nodeunit.git
 - grunt: https://github.com/gruntjs/grunt.git
 - supertest: https://github.com/visionmedia/supertest.git
